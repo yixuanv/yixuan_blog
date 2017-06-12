@@ -31,5 +31,5 @@ Hexo is a very useful tool to build static websites and it has lots of simple an
    in the settings, we can transfer the respository into another account then delete one account.
 
 ## Some common command for hexo:
-![hexo]（/Users/VivianZhang/new_blog/images／1.png)
+![](/Users/VivianZhang/new_blog/images／1.png)
 
