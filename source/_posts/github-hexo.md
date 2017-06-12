@@ -20,7 +20,7 @@ Hexo is a very useful tool to build static websites and it has lots of simple an
 
      type: git
 
-     repo: https://github.com/usename/username.github.io.git
+     repo: https://github.com/username/username.github.io.git
 
      branch: master
 8. npm install hexo-deployer-git --save
@@ -29,3 +29,7 @@ Hexo is a very useful tool to build static websites and it has lots of simple an
 
 ## what should I do if create two accounts?
    in the settings, we can transfer the respository into another account then delete one account.
+
+## Some common command for hexo:
+![hexo]（/Users/VivianZhang/new_blog/images／1.png)
+
