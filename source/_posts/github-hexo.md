@@ -8,7 +8,7 @@ Hexo is a very useful tool to build static websites and it has lots of simple an
 
 
 1. create a github account and generate ssh keys. Do not create two accounts at the same time or it will bring trouble!!
-2. create a new respository and a new file(mkdir) called "blog" and follow its instructions:
+2. create a new respository and a new file (`mkdir`) called "blog" and follow its instructions:
 
 	```bash
 	git init
@@ -36,12 +36,13 @@ Hexo is a very useful tool to build static websites and it has lots of simple an
    ```
 8. npm install hexo-deployer-git --save
 9. hexo generate
+10. hexo server 
 10. hexo deploy
 
 ## what should I do if create two accounts?
 
 In the settings, we can transfer the respository into another account then delete one account.
 
-## Some common command for hexo:
-![](../images/1.png)
+## Done!
+![](http://blog.zhangruipeng.me/hexo-theme-hueman/2016/07/08/MathJax-Example/#lg=1&slide=0)
 
