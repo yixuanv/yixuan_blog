@@ -44,5 +44,5 @@ Hexo is a very useful tool to build static websites and it has lots of simple an
 In the settings, we can transfer the respository into another account then delete one account.
 
 ## Done!
-![](http://blog.zhangruipeng.me/hexo-theme-hueman/2016/07/08/MathJax-Example/#lg=1&slide=0)
+![](http://blog.zhangruipeng.me/hexo-theme-hueman/gallery/math.jpg)
 
