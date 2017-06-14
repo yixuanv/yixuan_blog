@@ -1,7 +1,7 @@
 ---
 title: Github+Hexo[basics]
 date: 2017-06-12 17:36:01
-tags:
+category:
 - Technology
 ---
 
