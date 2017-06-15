@@ -3,6 +3,8 @@ title: Github+Hexo[basics]
 date: 2017-06-12 17:36:01
 category:
 - Technology
+tag:
+- github
 ---
 
 Hexo is a very useful tool to build static websites and it has lots of simple and beautiful themes to select. Here are few tips that I conclude: (Mac OSX)
