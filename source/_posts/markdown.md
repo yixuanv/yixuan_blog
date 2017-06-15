@@ -7,7 +7,7 @@ tag:
 - github
 - markdown
 ---
-![markdown and keep calm] (https://rstudioblog.files.wordpress.com/2014/06/keep-calm-and-markdown.png)
+![](https://rstudioblog.files.wordpress.com/2014/06/keep-calm-and-markdown.png)
 
 Markdown is used in GitHub, GitBook, Reddit, Diaspora, Stack Overflow, OpenStreetMap, and many others.
 
