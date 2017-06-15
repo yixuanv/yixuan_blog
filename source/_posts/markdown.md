@@ -28,13 +28,13 @@ Markdown is used in GitHub, GitBook, Reddit, Diaspora, Stack Overflow, OpenStree
 
 
 ## Block Elements
-### Paragraphs and line breaks
-#### paragraphs
+### Paragraphs and Line breaks
+#### Paragraphs
 HTML Tag: `<p>`
 
 one or more blanks lines: **spaces** or **tabs** is considered blank.
 
-#### line breaks
+#### Line breaks
 HTML Tag: `<br />`
 
 end a line with **two or more spaces**
