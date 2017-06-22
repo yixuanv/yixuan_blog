@@ -12,7 +12,7 @@ tag:
 Markdown is used in GitHub, GitBook, Reddit, Diaspora, Stack Overflow, OpenStreetMap, and many others.
 
 * [Block Elements](#Block-Elements)
-  * [Paragraphs and Line Breaks](#paragraphs-and-line-breaks)
+  * [Paragraphs and Line Breaks](#Paragraphs-and-Line-breaks)
   * [Headers](#headers)
   * [Blockquotes](#blockquotes)
   * [Lists](#lists)
@@ -27,7 +27,7 @@ Markdown is used in GitHub, GitBook, Reddit, Diaspora, Stack Overflow, OpenStree
   * [Strikethrough](#strikethrough)
 
 
-## Block Elements {some}
+## Block Elements 
 ### Paragraphs and Line breaks
 #### Paragraphs
 HTML Tag: `<p>`
