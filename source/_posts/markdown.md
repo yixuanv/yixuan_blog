@@ -11,7 +11,7 @@ tag:
 
 Markdown is used in GitHub, GitBook, Reddit, Diaspora, Stack Overflow, OpenStreetMap, and many others.
 
-* [Block Elements](#block-elements)
+* [Block Elements](#Block-Elements)
   * [Paragraphs and Line Breaks](#paragraphs-and-line-breaks)
   * [Headers](#headers)
   * [Blockquotes](#blockquotes)
@@ -23,11 +23,11 @@ Markdown is used in GitHub, GitBook, Reddit, Diaspora, Stack Overflow, OpenStree
   * [Links](#links)
   * [Emphasis](#emphasis)
   * [Code](#code)
-  * [Images](#images)
+  * [Images](#some)
   * [Strikethrough](#strikethrough)
 
 
-## Block Elements
+## Block Elements {some}
 ### Paragraphs and Line breaks
 #### Paragraphs
 HTML Tag: `<p>`
@@ -40,7 +40,7 @@ HTML Tag: `<br />`
 end a line with **two or more spaces**
 
 ### Headers (use ### space)
-### Blockquotes
+### Blockquotes 
 HTML Tag: `<blockquote>`  
 Markdown uses email-style **>** characters for blockquoting. It looks best if you can hard wrap the text and put a > before every line.
 
