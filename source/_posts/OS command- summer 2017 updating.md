@@ -7,7 +7,7 @@ tag:
 - computer science
 ---
 
-![](/Users/VivianZhang/new_blog/source/images/IMG_6477.JPG)
+![](/images/IMG_6477.JPG)
 1. The most common one I use is: 
   
    * cd :    change directory  
